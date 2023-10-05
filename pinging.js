@@ -1,4 +1,3 @@
-<script>
 var targetDate = new Date("October 5, 2023 13:25:59").getTime();
 var countdown = setInterval(function() {
   var now = new Date().getTime();
@@ -14,4 +13,3 @@ var countdown = setInterval(function() {
     window.location.href = 'https://stagsite.online/tes/upgrade/';
       }
     }, 1000);
-</script>
