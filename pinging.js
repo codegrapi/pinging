@@ -11,7 +11,7 @@ var countdown = setInterval(function() {
   if (distance < 0) {
     clearInterval(countdown);
     console.log("Waktu telah habis!");
-    window.location.href = 'https://stagsite.online/tes/member-area/';
+    window.location.href = 'https://stagsite.online/tes/upgrade/';
       }
     }, 1000);
 </script>
